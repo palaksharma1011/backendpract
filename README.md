@@ -1,8 +1,8 @@
-£ backend: js 
+ backend: js 
 
-£ frontnend : html , css , js
+ frontnend : html , css , js
 
-£ packages used :
+ packages used :
     -express
     -ejs
     -node
